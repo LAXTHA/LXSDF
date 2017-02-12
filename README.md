@@ -1,1 +1,1 @@
-# LXSDF (LX Serial Data Format) Specifications.
+# LXSDF (LX Serial Data Format) Communication Standard.
