@@ -5,7 +5,7 @@ UART(com port, serial port) is the most commonly used serial communication. UART
 
 # LXSDF T2A
 ![LXSDF T2A](images/LOGO_LXSDF-T2A_340x160.png)
-![LXSDF T2A Overview](images/Overview_LXSDF-T2A_900x715.png)
+![LXSDF T2A Overview](images/Overview_LXSDF-T2A_780x619.jpg)
 
 ## LXSDF T2A Documentation : http://laxtha.net/lxsdf-t2a
 
